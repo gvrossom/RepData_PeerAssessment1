@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-author: "Gautier Van Rossom"
+author: "Me"
 date: "May 13, 2016"
 output: 
   html_document:

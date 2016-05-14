@@ -1,5 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-Gautier Van Rossom  
+Me  
 May 13, 2016  
 
 
